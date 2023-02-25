@@ -55,7 +55,7 @@ export default function Login() {
           <div className="w-full flex flex-col space-y-5">
             <form onSubmit={handleSubmit(onSubmit)}>
               <div className="grid grid-cols-1 mb-5">
-                <label className="mb-3 text-sm">Email anda apa?</label>
+                <label className="mb-3 text-sm">Email anda apa ni?</label>
                 <input
                   {...register("email")}
                   type={"email"}
