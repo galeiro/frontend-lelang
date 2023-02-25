@@ -1,6 +1,6 @@
 import axios from "axios";
 
-export let base_url = "http://be.myapp.com";
+export let base_url = "https://myapp.com:8000";
 export let token = localStorage.getItem("token");
 export let headers = {
   headers: { authorization: `Bearer ${token}` },
