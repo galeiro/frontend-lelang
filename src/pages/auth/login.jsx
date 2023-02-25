@@ -91,7 +91,7 @@ export default function Login() {
               />
             </form>
             <small className="text-xs text-[#AAAAAA]">
-              Don't have an Account?{" "}
+              Don't have an Account? Tes{" "}
               <Link to={"/register"} className="text-blue-theme">
                 Sign Up
               </Link>
