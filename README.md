@@ -2,7 +2,7 @@
 
 ## Clone Repo Lelang (Projek)
 
-Clone Repo ini hanyalah repo yang memudahkan untuk menyelesaikan projek akhir yang di clone dari: <a href=https://github.com/Al-Ghozy03/admin-lelang-remake">github.com/Al-Ghozy03/admin-lelang-remake</a>.
+Clone Repo ini hanyalah repo yang memudahkan untuk menyelesaikan projek akhir yang di clone dari: <a href="https://github.com/Al-Ghozy03/admin-lelang-remake">github.com/Al-Ghozy03/admin-lelang-remake</a>.
 
 ## Cara Penggunaan
 

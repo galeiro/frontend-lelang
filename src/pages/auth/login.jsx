@@ -66,7 +66,7 @@ export default function Login() {
                 </small>
               </div>
               <div className="grid grid-cols-1 mb-5">
-                <label className="mb-3 text-sm">Passsword</label>
+                <label className="mb-3 text-sm">Passsword ente</label>
                 <input
                   {...register("password")}
                   type={"password"}
